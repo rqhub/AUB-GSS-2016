@@ -1,0 +1,1 @@
+Bits of Code on the arduino, when using the firmata+firefly libraries to communicate with the the grasshopper computer (eg: connected via a USB cable)

@@ -1,0 +1,1 @@
+That's when the arduino is connected to the raspberry pi, which acts as a wifi relay to the grasshopper computer. Can't use firmata in this schema. So, custom stuff goes here.
